@@ -106,16 +106,14 @@ Se recomienda los siguientes pasos:
    - Ajuste de parámetros
    - Evaluación de efectividad
 
-#### Esquema del proyecto#### Esquema del proyecto
+#### Esquema del proyecto
 - [Notebook 1: Análisis Exploratorio de Datos (EDA)](https://nbviewer.jupyter.org/github/pjvalverde/Capstone_Project_modelo_riesgo_corrupcion/blob/main/Risk_Corruption_P1_EDA.ipynb?flush_cache=true)
 
 [![Notebook 1: Análisis Exploratorio de Datos (EDA) en Google Colab](https://colab.research.google.com/drive/1qyhVx5oGVqHLecT2Hq4oEJxEsei-VLqG?usp=sharing)](https://colab.research.google.com/drive/1qyhVx5oGVqHLecT2Hq4oEJxEsei-VLqG?usp=sharing)
 - En Google Colab esta todos los graficos del analisis que posiblemente no se encuentre en el nbviewer
 
-- [Notebook 2: Desarrollo de Modelo Predictivo](https://nbviewer.org/github/pjvalverde/Capstone_Project_modelo_riesgo_corrupcion/blob/main/Risk_Corruption_P2_Model.ipynb)
-- [Notebook 3: Implementación y Validación](https://nbviewer.org/github/pjvalverde/Capstone_Project_modelo_riesgo_corrupcion/blob/main/Risk_Corruption_P3_Implementation.ipynb)
-
-> **Nota**: Para ver los gráficos interactivos, por favor use los enlaces de nbviewer proporcionados arriba.
+- [Notebook 2: Desarrollo de Modelo Predictivo] (capstone parte 2b-proximamente)
+- [Notebook 3: Implementación y Validación] (capstone parte 2b-proximamente)
 ##### Contacto e Información Adicional
 Para más información sobre este proyecto, contactar a:
 - Email: [pblvalverde@gmail.com]
