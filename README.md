@@ -107,7 +107,7 @@ Se recomienda los siguientes pasos:
    - Evaluación de efectividad
 
 #### Esquema del proyecto#### Esquema del proyecto
-- [Notebook 1: Análisis Exploratorio de Datos (EDA)](https://nbviewer.org/github/pjvalverde/Capstone_Project_modelo_riesgo_corrupcion/blob/main/Risk_Corruption_P1_EDA.ipynb)
+- [Notebook 1: Análisis Exploratorio de Datos (EDA)](https://nbviewer.jupyter.org/github/pjvalverde/Capstone_Project_modelo_riesgo_corrupcion/blob/main/Risk_Corruption_P1_EDA.ipynb?flush_cache=true)
 - [Notebook 2: Desarrollo de Modelo Predictivo](https://nbviewer.org/github/pjvalverde/Capstone_Project_modelo_riesgo_corrupcion/blob/main/Risk_Corruption_P2_Model.ipynb)
 - [Notebook 3: Implementación y Validación](https://nbviewer.org/github/pjvalverde/Capstone_Project_modelo_riesgo_corrupcion/blob/main/Risk_Corruption_P3_Implementation.ipynb)
 
